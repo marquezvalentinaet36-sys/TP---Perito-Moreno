@@ -33,20 +33,12 @@ ul ul li{
     display: block;
 }
 
-ul li: hover ul{
+ul li:hover ul{
     display: block;
 }
 
-=======
+
 body{
-<<<<<<< HEAD
     background-image: url('imagenes/flaciar.jpg');
 }
 
-=======
-    background-image: url('imagenes/Parqueperitomorenooo.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
->>>>>>> b38f36a2b84f3a45975e9424394630668c39a8e2
