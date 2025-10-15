@@ -26,12 +26,12 @@ ul li:hover ul{
     display: block;
 }
 
+ul li:hover ul{
+    display: block;
+}
 
-/*Imagen de fondo*/
+
 body{
-    background-image: url('https://sib.gob.ar/api/2.0.0/thumb?filename=20210511140418_PN_PERITO_MORENO.jpg&size=200');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-image: url('imagenes/flaciar.jpg');
 }
 
