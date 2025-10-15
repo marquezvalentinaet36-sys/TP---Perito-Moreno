@@ -40,7 +40,7 @@ ul li:hover ul{
 
 /*Imagen de fondo*/
 body{
-    background-image: url('imagenes/Parqueperitomorenooo.jpg');
+    background-image: url('https://sib.gob.ar/api/2.0.0/thumb?filename=20210511140418_PN_PERITO_MORENO.jpg&size=200');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
