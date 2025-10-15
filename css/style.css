@@ -37,7 +37,12 @@ ul li:hover ul{
     display: block;
 }
 
+
+/*Imagen de fondo*/
 body{
-    background-image: url('imagenes/flaciar.jpg');
+    background-image: url('imagenes/Parqueperitomorenooo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
